@@ -1,0 +1,6 @@
+PyQt5
+PyQtWebEngine
+pyqt5-tools
+fbs
+jinja2
+mysql-connector-python

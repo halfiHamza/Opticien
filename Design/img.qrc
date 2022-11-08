@@ -1,0 +1,21 @@
+<RCC>
+  <qresource prefix="icons">
+    <file>../src/main/resources/base/img/icons8_add_new_100px.png</file>
+    <file>../src/main/resources/base/img/icons8_close_window_50px.png</file>
+    <file>../src/main/resources/base/img/icons8_coins_50px.png</file>
+    <file>../src/main/resources/base/img/icons8_edit_50px.png</file>
+    <file>../src/main/resources/base/img/icons8_Edit_Text_File_100px.png</file>
+    <file>../src/main/resources/base/img/icons8_exchange_100px.png</file>
+    <file>../src/main/resources/base/img/icons8_document_100px_1.png</file>
+    <file>../src/main/resources/base/img/icons8_new_copy_100px.png</file>
+    <file>../src/main/resources/base/img/icons8_file_preview_50px.png</file>
+    <file>../src/main/resources/base/img/icons8_glasses_50px.png</file>
+    <file>../src/main/resources/base/img/icons8_management_100px.png</file>
+    <file>../src/main/resources/base/img/icons8_money_50px.png</file>
+    <file>../src/main/resources/base/img/icons8_paper_money_50px_1.png</file>
+    <file>../src/main/resources/base/img/icons8_pie_chart_50px.png</file>
+    <file>../src/main/resources/base/img/icons8_print_50px.png</file>
+    <file>../src/main/resources/base/img/icons8_Remove_100px.png</file>
+    <file>../src/main/resources/base/img/icons8_vision_96px.png</file>
+  </qresource>
+</RCC>
